@@ -89,9 +89,8 @@ alg = Algoritm()
 #alg.o_n(input('Input number: '))
 alg.o_n_3(100, 200, 150)
 
-for i in range(100):
+for i in range(120):
     pass
-
 
 
 
